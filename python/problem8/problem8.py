@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-
 import numpy as np
-
 
 IMAX = 50
 JMAX = 20

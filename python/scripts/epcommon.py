@@ -23,3 +23,11 @@ def is_prime(n : int):
         if n % k == 0:
             return False
     return True
+
+def digit(n:int):
+    '''
+    数値nの桁数を整数で返す。負の場合は絶対値の桁数。
+    '''
+    n = math.abs(n)
+    if n == 0: return 0
+    return int(math.log10(n))+1
