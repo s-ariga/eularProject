@@ -27,7 +27,7 @@ clyent==1.2.2
 colorama==0.4.1
 comtypes==1.1.7
 conda==4.7.5
-conda-build==3.17.8
+conda-build==3.18.5
 conda-package-handling==1.3.10
 conda-verify==3.1.1
 contextlib2==0.5.5
@@ -130,6 +130,7 @@ pycurl==7.43.0.2
 pyflakes==2.1.1
 Pygments==2.3.1
 pylint==2.2.2
+pynvim==0.3.2
 pyodbc==4.0.26
 pyOpenSSL==19.0.0
 pyparsing==2.3.1
@@ -146,6 +147,7 @@ pytest-openfiles==0.3.2
 pytest-remotedata==0.3.1
 python-dateutil==2.8.0
 pytz==2018.9
+pyuv==1.4.0
 PyWavelets==1.0.2
 pywin32==223
 pywin32-ctypes==0.2.0
